@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://surfcoastshortstaymanagement.com.au/sitemap.xml
